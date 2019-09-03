@@ -1,12 +1,13 @@
 # Statistics with R KC
+
 The repository contains the data and the R files to solve the problems with the R programming language.
 The repository contains 2 files:
->1. data
+1. data
 2. Statistics_with_R_1.ipynb
 3. Statistics_with_R_2.ipynb
 
 In data file are the data that I use to solve the problems:
->1. API_19_DS2_en_csv_v2.csv
+1. API_19_DS2_en_csv_v2.csv
 2. BCSC_risk_factors_summarized.csv
 3. co2_mm_mlo.txt
 4. EZE00100082.csv
